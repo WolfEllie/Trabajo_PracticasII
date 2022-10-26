@@ -1,0 +1,146 @@
+* {
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+#titulo {
+    color: white;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+/*
+#carouselExampleFade img{
+    height: 800px;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+
+/* PARTE TIENDA / CD'S */
+
+
+/*-----------------BLUE WEEKEND----------------*/
+.caja1 {
+    border-width: 1px;
+    border-style: solid;
+    height: 380px;
+    width: 350px;
+    background-color: #F5F5F5;
+    margin-left: 20px;
+}
+
+.caja1 img {
+    margin-top: 10px;
+}
+
+.boton {
+    margin-top: 10px;
+}
+
+/*---------------VISIONS OF A LIFE----------------*/
+.caja2 {
+    border-width: 1px;
+    border-style: solid;
+    height: 380px;
+    width: 350px;
+    background-color: #F5F5F5;
+    margin-left: 20px;
+}
+
+.caja2 img {
+    margin-top: 10px;
+}
+
+/*----------------MY LOVE IS COOL------------------*/
+.caja3 {
+    border-width: 1px;
+    border-style: solid;
+    height: 380px;
+    width: 350px;
+    background-color: #F5F5F5;
+    margin-left: 20px;
+}
+
+.caja3 img {
+    margin-top: 10px;
+}
+
+/*--------------------------------------------------*/
+.botonmas {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+/*wOLF ALICE PART*/
+#texth2 {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    justify-content: center;
+}
+
+.list-group small {
+    font-size: 150%;
+}
+
+/*-------------FORMULARIO-------------*/
+.contenedorform {
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;
+
+
+}
+
+.caja4 {
+    border-width: 1px;
+    border-style: solid;
+    height: 250px;
+    width: 500px;
+    background-color: #F5F5F5;
+    border-radius: 2%;
+
+}
+.caja4 form {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#botonform {
+    justify-content: center;
+    display: flex;
+}
+
+
+/*Botones música*/
+.botones {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: space-around;
+}
+
+.botones img {
+    height: 32px;
+}
+
+/*----------------------------------------------*/
+/*FOOTER*/
+footer img {
+    width: 32px;
+}
+.container-fluid{
+    display: inline-block;
+}
